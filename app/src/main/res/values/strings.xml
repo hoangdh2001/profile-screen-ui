@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Profile Screen UI</string>
+    <string name="rash_novola">Rash Novola</string>
+    <string name="ui_ux_designer_foodie_vietnam">UI/UX Designer | Foodie | VietNam</string>
+    <string name="_962">962</string>
+    <string name="_4_9k">4.9K</string>
+    <string name="_165">165</string>
+    <string name="posts">Posts</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="following">FOLLOWING</string>
+    <string name="stylish">Stylish</string>
+    <string name="model">Model</string>
+    <string name="runner">Runner</string>
+    <string name="adventurous">Adventurous</string>
+    <string name="collection">Collection</string>
+    <string name="tags">TAGS</string>
+    <string name="food_joint">Food Joint</string>
+    <string name="photo_shoot">Photo Shoot</string>
+    <string name="excercise">Excercise</string>
+    <string name="nature">Nature</string>
+    <string name="latest_posts">LATEST POSTS</string>
+</resources>
